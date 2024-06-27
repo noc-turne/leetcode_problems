@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/noc-turne/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noc-turne/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 # Greedy
 |  |
@@ -46,3 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/noc-turne/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
+# String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/noc-turne/leetcode_problems/tree/master/0020-valid-parentheses) |
