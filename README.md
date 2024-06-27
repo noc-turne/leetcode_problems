@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/noc-turne/leetcode_problems/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noc-turne/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/noc-turne/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noc-turne/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 # Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/noc-turne/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/noc-turne/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noc-turne/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 # Greedy
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/noc-turne/leetcode_problems/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/noc-turne/leetcode_problems/tree/master/0780-max-chunks-to-make-sorted) |
 # String
 |  |
