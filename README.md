@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/noc-turne/leetcode_problems/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/noc-turne/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 # Hash Table
 |  |
@@ -19,3 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/noc-turne/leetcode_problems/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+# Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
