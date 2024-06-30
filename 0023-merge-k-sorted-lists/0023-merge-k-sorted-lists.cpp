@@ -9,35 +9,32 @@
  * };
  */
 class Solution {
-public:
 
-    struct Cmp {
-        bool operator() (ListNode* l1, ListNode* l2) {
-            return l1->val > l2->val;
+public:
+    struct cmp {
+        bool operator() (const ListNode* a, const ListNode* b) {
+            return a->val > b->val;
         }
     };
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()) return nullptr;
-        priority_queue<ListNode*, vector<ListNode*>, Cmp> q;
-        for(ListNode* list: lists) {
+        priority_queue<ListNode*, vector<ListNode*>, cmp> heap;
+        for(auto list: lists) {
             if(list) {
-                q.push(list);
+                heap.push(list);
             }
         }
 
-        ListNode* dummy = new ListNode(0), *cur = dummy;
-        while(!q.empty()) {
-            cur->next = q.top();
-            q.pop();
+        ListNode* dummy = new ListNode(0);
+        ListNode* cur = dummy;
+        while(!heap.empty()) {
+            cur->next = heap.top();
+            if(cur->next->next) {
+                heap.push(cur->next->next);
+            }
+            heap.pop();
             cur = cur->next;
-            if(cur->next) {
-                q.push(cur->next);
-            }
         }
-
         return dummy->next;
-
-
-        
     }
 };
