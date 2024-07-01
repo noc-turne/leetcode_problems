@@ -68,8 +68,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/noc-turne/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/noc-turne/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
