@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/noc-turne/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Queue
 |  |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
