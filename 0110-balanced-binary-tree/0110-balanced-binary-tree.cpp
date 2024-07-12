@@ -12,32 +12,27 @@
 class Solution {
 public:
     int depth(TreeNode* root) {
-        int res = 1;
+        int left = 0;
+        int right = 0;
         if(root->left) {
-            res = max(res, depth(root->left) + 1);
+            left = depth(root->left);
         }
         if(root->right) {
-            res = max(res, depth(root->right) + 1);
+            right = depth(root->right);
         }
-        return res;
+        if(left == -1 || right == -1) return -1;
+        if(abs(left - right) > 1) return -1;
+        // cout << root->val << ' ' << left << ' ' << right << endl;
+        return 1 + max(left, right);
             
     }
 
     bool isBalanced(TreeNode* root) {
         if(root == nullptr) return true;
-        int depth1 = 0, depth2 = 0;
-        if(root->left) {
-            depth1 = depth(root->left);
-        }
-        if(root->right) {
-            depth2 = depth(root->right);
-        }
-        // cout << depth1 << depth2 << endl;
-        if(abs(depth1 - depth2) <= 1) {
-            if(isBalanced(root->left) && isBalanced(root->right)) return true;
-            else return false;
-        }
-        else return false;
+        int res = 0;
+        res = depth(root);
+        if(res == -1) return false;
+        return true;
  
     }
 };
