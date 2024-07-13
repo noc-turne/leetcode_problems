@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/noc-turne/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/noc-turne/leetcode_problems/tree/master/0697-degree-of-an-array) |
+| [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Queue
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/noc-turne/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/noc-turne/leetcode_problems/tree/master/0697-degree-of-an-array) |
+| [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Union Find
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/noc-turne/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/noc-turne/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0437-path-sum-iii](https://github.com/noc-turne/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
