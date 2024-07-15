@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/noc-turne/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 ## Design
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
