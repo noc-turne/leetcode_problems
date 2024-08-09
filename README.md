@@ -159,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
