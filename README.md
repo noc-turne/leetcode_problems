@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
+| [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
@@ -241,10 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/noc-turne/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
 ## Math
 |  |
