@@ -33,7 +33,6 @@ public:
                     if(down) l = mid + 1;
                 }
             }
-            cout << l << ' ' << r << endl;
         }
 
         if(nums[l] == target) return true;
