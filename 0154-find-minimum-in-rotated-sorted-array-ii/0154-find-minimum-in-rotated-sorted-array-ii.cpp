@@ -16,7 +16,6 @@ public:
             else {
                 l = mid + 1;
             }
-            cout << l << ' ' << r << endl;
         }
         return nums[l];
         
