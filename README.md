@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/noc-turne/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/noc-turne/leetcode_problems/tree/master/0605-can-place-flowers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/noc-turne/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
 ## Math
