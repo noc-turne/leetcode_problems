@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/noc-turne/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0665-non-decreasing-array](https://github.com/noc-turne/leetcode_problems/tree/master/0665-non-decreasing-array) |
+| [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/noc-turne/leetcode_problems/tree/master/0697-degree-of-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Queue
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/noc-turne/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 ## Design
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/noc-turne/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/noc-turne/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
