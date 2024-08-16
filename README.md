@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/noc-turne/leetcode_problems/tree/master/0665-non-decreasing-array) |
 | [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/noc-turne/leetcode_problems/tree/master/0697-degree-of-an-array) |
+| [0971-shortest-bridge](https://github.com/noc-turne/leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Queue
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
+| [0971-shortest-bridge](https://github.com/noc-turne/leetcode_problems/tree/master/0971-shortest-bridge) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [0971-shortest-bridge](https://github.com/noc-turne/leetcode_problems/tree/master/0971-shortest-bridge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/noc-turne/leetcode_problems/tree/master/1207-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/noc-turne/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [0971-shortest-bridge](https://github.com/noc-turne/leetcode_problems/tree/master/0971-shortest-bridge) |
 ## Binary Tree
 |  |
 | ------- |
