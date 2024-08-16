@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
+| [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 ## Memoization
 |  |
 | ------- |
