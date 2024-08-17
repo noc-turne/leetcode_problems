@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/noc-turne/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/noc-turne/leetcode_problems/tree/master/0046-permutations) |
+| [0064-minimum-path-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/noc-turne/leetcode_problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noc-turne/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
