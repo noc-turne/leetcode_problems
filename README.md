@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noc-turne/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/noc-turne/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/noc-turne/leetcode_problems/tree/master/0605-can-place-flowers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/noc-turne/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0971-shortest-bridge](https://github.com/noc-turne/leetcode_problems/tree/master/0971-shortest-bridge) |
 ## Stack
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/noc-turne/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/noc-turne/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
