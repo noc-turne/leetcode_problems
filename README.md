@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noc-turne/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/noc-turne/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/noc-turne/leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/noc-turne/leetcode_problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/noc-turne/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/noc-turne/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/noc-turne/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/noc-turne/leetcode_problems/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/noc-turne/leetcode_problems/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/noc-turne/leetcode_problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/noc-turne/leetcode_problems/tree/master/0279-perfect-squares) |
@@ -320,4 +324,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
