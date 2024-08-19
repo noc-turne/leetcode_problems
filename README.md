@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/noc-turne/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/noc-turne/leetcode_problems/tree/master/0547-number-of-provinces) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/noc-turne/leetcode_problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/noc-turne/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 ## Backtracking
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/noc-turne/leetcode_problems/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/noc-turne/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 ## Memoization
