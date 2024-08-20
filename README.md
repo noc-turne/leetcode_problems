@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
+| [1250-longest-common-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
