@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/noc-turne/leetcode_problems/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/noc-turne/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/noc-turne/leetcode_problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noc-turne/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/noc-turne/leetcode_problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/noc-turne/leetcode_problems/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/noc-turne/leetcode_problems/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 ## Memoization
