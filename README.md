@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/noc-turne/leetcode_problems/tree/master/0279-perfect-squares) |
 | [0633-sum-of-square-numbers](https://github.com/noc-turne/leetcode_problems/tree/master/0633-sum-of-square-numbers) |
+| [0650-2-keys-keyboard](https://github.com/noc-turne/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 ## Backtracking
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/noc-turne/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/noc-turne/leetcode_problems/tree/master/0650-2-keys-keyboard) |
 | [1250-longest-common-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
