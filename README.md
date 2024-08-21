@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/noc-turne/leetcode_problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/noc-turne/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/noc-turne/leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/noc-turne/leetcode_problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/noc-turne/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/noc-turne/leetcode_problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/noc-turne/leetcode_problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/noc-turne/leetcode_problems/tree/master/0768-partition-labels) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/noc-turne/leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/noc-turne/leetcode_problems/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/noc-turne/leetcode_problems/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/noc-turne/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 ## Memoization
