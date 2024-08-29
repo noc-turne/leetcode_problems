@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/noc-turne/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/noc-turne/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/noc-turne/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/noc-turne/leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/noc-turne/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/noc-turne/leetcode_problems/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/noc-turne/leetcode_problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0669-trim-a-binary-search-tree) |
@@ -345,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/noc-turne/leetcode_problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
