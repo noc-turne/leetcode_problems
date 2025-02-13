@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/noc-turne/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/noc-turne/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/noc-turne/leetcode_problems/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/noc-turne/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/noc-turne/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/noc-turne/leetcode_problems/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/noc-turne/leetcode_problems/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/noc-turne/leetcode_problems/tree/master/0474-ones-and-zeroes) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/noc-turne/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/noc-turne/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/noc-turne/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/noc-turne/leetcode_problems/tree/master/0091-decode-ways) |
